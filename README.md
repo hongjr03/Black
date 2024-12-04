@@ -18,4 +18,4 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-Replace `NEXT_PUBLIC_BASE_URL` in file `.env` to connect your self-hosted backend.
+Rename `.example.env` to `.env`, then edit the value of `NEXT_PUBLIC_BASE_URL` in file `.env` to connect your self-hosted backend.
